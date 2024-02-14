@@ -9,6 +9,7 @@ function Intersection(arr1, arr2) {
   for (let i = 0; i < arr3.length; i++) {
     let array3Value = arr3[i];
     //不包含Array3的值
+    //這裡做一些調整
     if (!counter[array3Value]) {
       counter[array3Value] = 1;
     } else {
