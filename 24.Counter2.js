@@ -12,7 +12,7 @@ function Intersection(arr1, arr2) {
     if (!counter[array3Value]) {
       counter[array3Value] = 1;
     } else {
-      //如果包含就+1
+      這邊的註解做一下更改
       counter[array3Value]++;
     }
   }
