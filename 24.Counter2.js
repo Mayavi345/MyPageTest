@@ -27,6 +27,12 @@ function Intersection(arr1, arr2) {
   console.log(counter);
   console.log(counter);
 
+    console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
   console.log(counter);
   console.log(counter);
   console.log(counter);
