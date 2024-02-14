@@ -12,11 +12,31 @@ function Intersection(arr1, arr2) {
     if (!counter[array3Value]) {
       counter[array3Value] = 1;
     } else {
-      這邊的註解做一下更改
+      //這邊的註解已經做了調整
       counter[array3Value]++;
     }
   }
   console.log(counter);
+  //我多了幾個console
+  console.log(counter);
+    console.log(counter);
+  console.log(counter);
+    console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
+    console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
 
   //Loop over the counter
   for (let property in counter) {
