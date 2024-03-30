@@ -1,6 +1,6 @@
 let array1 = [1, 2, 3, 7, 9, 19, 25];
 let array2 = [19, 5, 16, 10, 3, 1];
-let a = "python test branch";
+let a = "python test branch 我是B帳號 副的";
 function Intersection(arr1, arr2) {
   let result = [];
   let arr3 = arr1.concat(arr2);
