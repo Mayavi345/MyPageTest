@@ -17,6 +17,26 @@ function Intersection(arr1, arr2) {
     }
   }
   console.log(counter);
+  //我多了幾個console
+  console.log(counter);
+    console.log(counter);
+  console.log(counter);
+    console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
+    console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
+  console.log(counter);
+  console.log(counter);
+  console.log(counter);
+
 
   //Loop over the counter
   for (let property in counter) {
